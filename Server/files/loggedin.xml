@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<loggedin>
+    <bills>
+        <nonutil>
+            <entry id="1">
+                <date>Todays date</date>
+                <buyer>Kome</buyer>
+                <amount>$50.25</amount>
+                <item>Awesomeness</item>
+                <payers>Jeremy-Alex-Hans</payers>
+            </entry>
+            <entry id="2">
+                <date>Tomorrow</date>
+                <buyer>Monsieur Lex</buyer>
+                <amount>$5.85</amount>
+                <item>Mememety-Youre welcome</item>
+                <payers>Jeremy-Alex-Hans</payers>
+            </entry>
+            <entry id="3">
+                <date>Next Tomorrow</date>
+                <buyer>Monsieur Smaithe</buyer>
+                <amount>$523.85</amount>
+                <item>Mandarin - Literaly</item>
+                <payers>Jeremy-Alex-Hans</payers>
+            </entry>
+        </nonutil>
+        <util>
+            <entry id="1">
+                <date>Tomorrow</date>
+                <buyer>Kome</buyer>
+                <amount>$200</amount>
+                <item>Hydro</item>
+                <payers></payers>
+            </entry>
+            <entry id = "2">
+                <date>Two days time</date>
+                <buyer>Kome</buyer>
+                <amount>$20</amount>
+                <item>Water</item>
+                <payers>Alex</payers>
+            </entry>
+        </util>
+    </bills>
+    <in_stantMessage>
+        <Kome>
+            <messages>
+                <time>12/2/2015 16:30</time>
+                <message_from>Alex</message_from>
+                <message>Hello</message>
+            </messages>
+        </Kome>
+        <Alex>
+            <messages>
+                <time>12/2/2015 16:36</time>
+                <message_from>Kome</message_from>
+                <message>Hello to  you too</message>
+            </messages>
+        </Alex>
+    </in_stantMessage>
+</loggedin>
