@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<files>
+    <initfiles>
+        <ivcfevents>
+            <event date = "today">
+                There is an event at my house today
+            </event>
+            <event date = "tomorrow">
+                There is an event at my house tomorrow
+            </event>
+        </ivcfevents>
+        <ivcfprayer>
+            <prayer id = "1">
+                God help me
+            </prayer>
+            <prayer id = "2">
+                Thank you Jesus
+            </prayer>
+            <prayer id = "3">
+                Please protect all my family and friends
+            </prayer>
+        </ivcfprayer>
+        <houseinfo>
+            <info>
+                KOme is awesome?
+            </info>
+            <info>
+                He really is
+            </info>
+            <info>
+                Was he slow
+            </info>
+        </houseinfo>
+    </initfiles>
+</files>
